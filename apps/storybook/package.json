@@ -43,7 +43,7 @@
     "@types/node": "24.12.0",
     "@types/react": "19.2.14",
     "@types/react-dom": "19.2.3",
-    "@vitest/mocker": "^4.1.2",
+    "@vitest/mocker": "^4.1.11",
     "axe-core": "4.11.2",
     "axe-playwright": "^2.2.2",
     "css-loader": "7.1.4",
